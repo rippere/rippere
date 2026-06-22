@@ -42,9 +42,9 @@ Infra        Docker · Railway · RunPod · GitHub Actions
 
 ## Connect
 
-- 🌐 Website — _coming soon_
-- 💼 LinkedIn — _add your URL_
-- 🐦 X / Twitter — _add your handle_
-- ✉️ rippere.ben.r@gmail.com
+- 🌐 Website — [www.riphere.com](https://www.riphere.com)
+- 💼 LinkedIn — [benjamin-rippere](https://www.linkedin.com/in/benjamin-rippere/)
+- 🐦 X / Twitter — [@rrippere](https://x.com/rrippere)
+- ✉️ [ben@riphere.com](mailto:ben@riphere.com)
 
 <sub>Building at the intersection of neuroscience, AI, and honest measurement. Follow along — most of my work ships in public.</sub>
